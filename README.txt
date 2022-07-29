@@ -1,1 +1,1 @@
-Este e o projeto teste
+Exercicios do Playground Curso Digital House Full Stack 
